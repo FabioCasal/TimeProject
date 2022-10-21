@@ -46,7 +46,6 @@ public class main {
     }
     public static void news(){
         System.out.println("Here are your daily updates: ");
-        System.out.println();
 
     }
 
